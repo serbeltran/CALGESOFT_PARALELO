@@ -1,0 +1,2 @@
+CALGESOFT_PARALELO
+==================
